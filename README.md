@@ -9,6 +9,7 @@
     deactivate
   ```
 - Build the folder structure you see in the image:
+
 ![folder_structure](./folder_structure.png)
 
 - Provide execute permission to runner.sh: chmod +x runner.sh.
